@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Ashu 👋
 
-<!--
-**Ashutosh03x/Ashutosh03x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recently completed 12th
+🚀 Starting Polytechnic (Diploma) from August
+💻 Learning Python & Computer Science
 
-Here are some ideas to get you started:
+---------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About Me!
+
+- Beginner developer focused on building strong fundamentals
+- Interested in working in Japan 🇯🇵
+- Consistently learning and improving every day
+
+-----------------------------------------------------
+
+🛠️ Currently Learning!
+
+- Python (basics → building projects)
+- Git & GitHub
+- Problem solving
+
+-----------------------------------------------------
+
+📂 Projects
+
+- 🖥️ Win11 Customisations (in progress)
+- More projects coming soon...
+
+------------------------------------------------------
+
+🎯 Goals
+
+- Become a skilled developer
+- Build real-world projects
+- Start a career in Japan’s tech industry
+
+-------------------------------------------------------
+
+⚡ Mindset
+
+«Learn → Build → Improve → Repeat»
