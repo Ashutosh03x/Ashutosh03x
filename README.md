@@ -1,8 +1,10 @@
 Hi, I'm Ashu 👋
 
 🎓 Recently completed 12th
-🚀 Starting Polytechnic (Diploma) from August
-💻 Learning Python & Computer Science
+
+🚀 Starting Polytechnic (Diploma) from August in CS
+
+💻 currently Learning Python & japanese (self studying)
 
 ---------------------------------------------------
 
@@ -17,8 +19,8 @@ Hi, I'm Ashu 👋
 🛠️ Currently Learning!
 
 - Python (basics → building projects)
-- Git & GitHub
 - Problem solving
+- japanese (for JLPT N5)
 
 -----------------------------------------------------
 
