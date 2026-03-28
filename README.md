@@ -35,6 +35,5 @@ Hi, I'm Ashu 👋
 
 - Become a skilled developer
 - Build real-world projects
-- Start a career in Japan’s tech industry
 
 -------------------------------------------------------
