@@ -38,7 +38,3 @@ Hi, I'm Ashu 👋
 - Start a career in Japan’s tech industry
 
 -------------------------------------------------------
-
-⚡ Mindset
-
-«Learn → Build → Improve → Repeat»
