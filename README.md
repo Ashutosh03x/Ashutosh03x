@@ -14,7 +14,7 @@
 <p align="left"> 
 
 - Beginner developer focused on building strong fundamentals.
-- Interested in working in Japan 🇯🇵.
+- want to work in Japan 🇯🇵 (maybe in future 🥹).
 - Consistently learning and improving every day.</p>
 
 
